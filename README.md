@@ -10,3 +10,7 @@
 * `npm publish --access public` to publish
 
 * test your package `https://npm.runkit.com/<your-package-name>`
+
+-----
+
+https://docs.npmjs.com/packages-and-modules
