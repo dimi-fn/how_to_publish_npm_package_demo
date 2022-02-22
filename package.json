@@ -1,0 +1,27 @@
+{
+  "name": "npm_test_publish_package",
+  "version": "1.0.0",
+  "description": "testing how to publish an npm package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --watch --silent",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimi-fn/npm_test_publish_package.git"
+  },
+  "keywords": [],
+  "author": "dimi-fn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimi-fn/npm_test_publish_package/issues"
+  },
+  "homepage": "https://github.com/dimi-fn/npm_test_publish_package#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
