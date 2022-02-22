@@ -1,1 +1,1 @@
-# npm_test_publish_package
+# NPM test package publication
