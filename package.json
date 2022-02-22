@@ -1,5 +1,5 @@
 {
-  "name": "npm_test_publish_package",
+  "name": "@dimi-fn/npm_test_publish_package",
   "version": "1.0.0",
   "description": "testing how to publish an npm package",
   "main": "index.js",
