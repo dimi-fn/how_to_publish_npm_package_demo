@@ -2,7 +2,7 @@
 
 * [npm](https://github.com/dimi-fn/Various-Data-Science-Scripts/tree/main/Web%20Development/npm)
 
-* follow [this](https://github.com/dimi-fn/Various-Data-Science-Scripts/tree/main/Web%20Development/TDD) to set up the testing files
+* follow [this](https://github.com/dimi-fn/Various-Data-Science-Scripts/tree/main/Web%20Development/TDD#unit-testing-with-jest) to set up the testing files
 
 * customize the `package.json`
     * name might have to be in the form of: `"name": "@<username>/<name of repo>"`
