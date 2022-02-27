@@ -1,4 +1,4 @@
-# NPM test package publication
+# How to Publish an NPM Package (Demo)
 
 * [npm](https://github.com/dimi-fn/Various-Data-Science-Scripts/tree/main/Web%20Development/npm)
 
